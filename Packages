@@ -4,7 +4,7 @@ Section: Ultilities
 Maintainer: NTTHANH <ratra@gmail.com>
 Architecture: iphoneos-arm
 Filename: ./debs/fix.deb
-Size: 13.9
+Size: 14234
 MD5sum: 90761c00b11a034fa9792c217c553806
 Description: test
 Name: fix
